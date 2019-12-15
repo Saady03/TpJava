@@ -1,0 +1,1 @@
+seuillage.FiltrageMoyenneur
